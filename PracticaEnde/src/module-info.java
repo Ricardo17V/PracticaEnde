@@ -5,4 +5,5 @@
  * 
  */
 module PracticaEnde {
+	requires junit;
 }
