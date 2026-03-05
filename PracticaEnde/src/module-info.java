@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module PracticaEnde {
-	requires junit;
-}
